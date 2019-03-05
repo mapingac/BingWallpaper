@@ -3,10 +3,12 @@
 # 2019/03/05 v0.1 Changes   
 
 ### 1.add gui for preview image
-  ![Image text](https://github.com/teamfive555/BingWallpaper/blob/master/image/getImage.jpg)
+
+![Image text](https://github.com/teamfive555/BingWallpaper/blob/master/image/getImage.jpg)
 
 ### 2.save image to fixed directory and open image form disk
-  ![Image text](https://github.com/teamfive555/BingWallpaper/blob/master/image/read.jpg)
+
+![Image text](https://github.com/teamfive555/BingWallpaper/blob/master/image/read.jpg)
   
 ---
 # how to run
